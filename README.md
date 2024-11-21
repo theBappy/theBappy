@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @theBappy
-- 👀 I’m interested in coding and exploring the art of coding and love to dive into it
-- 🌱 I’m currently working on projects for increasing my skill in coding ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (Sorry! Will not be available for 5 more years)..
-- 😄 Pronouns: he/him...
-- ⚡ Fun fact: I’m an enthusiastic learner who loves exploring new ideas and sharing knowledge with others. Whether it's diving into a new coding language or discovering the latest trends in technology, I thrive on curiosity and creativity!...
+# Hi, I'm theBappy! 👋
 
-<!---
-theBappy/theBappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate and driven by a curiosity for technology and a love for writing. My journey involves delving into the world of programming, exploring new ideas, and sharing my insights with the community.
+
+
+## 🚀 About Me
+
+- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+
+## My Articles
+- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,nodejs,reactjs,bootstrap)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com)
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
+
