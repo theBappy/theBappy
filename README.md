@@ -9,9 +9,6 @@ I am a passionate and driven by a curiosity for technology and a love for writin
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/)
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,python,php,html,css,nodejs,react,mongodb,bootstrap,laravel)](https://skillicons.dev)
