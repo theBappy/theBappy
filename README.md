@@ -11,7 +11,7 @@ I am a passionate and driven by a curiosity for technology and a love for writin
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,python,php,html,css,nodejs,react,mongodb,bootstrap,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,c++,php,html,css,nodejs,react,mongodb,bootstrap,laravel)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
