@@ -33,8 +33,8 @@ I am a passionate and driven by a curiosity for technology and a love for writin
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-[![RepoStars](https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=terminal)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=terminal)
+<br><br>
+[![RepoStars](https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark)
 
 
 
