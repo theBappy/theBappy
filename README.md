@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm theBappy</h1>
-<h3>Software Development Engineer</h3>
+<h1>Hi, <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm theBappy</h1>
+<h3>Software Development Engineer @ <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="22px" alt="Netflix" style="vertical-align:middle;"></h3>
+<p>📍 Washington, USA</p>
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=theBappy">
