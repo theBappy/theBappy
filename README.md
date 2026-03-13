@@ -14,11 +14,9 @@
 ## 📊 Stats & Trophies
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/theBappy?theme=nord&font=Raleway&ext=heatmap" alt="LeetCode Stats" />
-</p>
-<p>
+  <img src="https://leetcard.jacoblin.cool/theBappy?theme=nord&font=Raleway&ext=heatmap" alt="LeetCode Stats" height="185px" />
   <a href="https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark">
-    <img src="https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark" alt="RepoStars" />
+    <img src="https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark" alt="RepoStars" height="185px" />
   </a>
 </p>
 
