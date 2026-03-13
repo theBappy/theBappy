@@ -39,7 +39,7 @@
 </div>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/theBappy?theme=chartreuse&font=Raleway&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/theBappy?theme=wtf&font=Raleway&ext=heatmap)
 
 [![RepoStars](https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark)
 
