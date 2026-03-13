@@ -37,15 +37,5 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 [![RepoStars](https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theBappy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=theBappy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theBappy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=theBappy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
