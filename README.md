@@ -15,7 +15,7 @@
 <br/><br>
 <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,django,postgres,mongodb,docker,jenkins,kubernetes,ai&theme=dark" />
 <br/>
-<p><b> Python | C++ | JS | React | Next.js | Node.js | Django | SQL | MongoDB | Docker | Kubernetes | Jenkins | LLM | AI/ML</b></p>
+<p><b> Python | C++ | JS | React | Next.js | Node.js | Django | SQL | MongoDB | Docker | Jenkins | Kubernetes | LLM | AI/ML</b></p>
 
 ---
 
