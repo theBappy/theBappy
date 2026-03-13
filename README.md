@@ -1,51 +1,3 @@
-# Hi, I'm theBappy! 👋
-
-I am a passionate and driven by a curiosity for technology and a love for writing. My journey involves delving into the world of programming, exploring new ideas, and sharing my insights with the community.
-
-
-## 🚀 About Me
-
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,ts,tsql)](https://skillicons.dev)
-
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com)
-
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-<br><br>
-[![RepoStars](https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark)
-
-
-
-
-
-
-
-
-
-
-
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm theBappy</h1>
 <h3 align="center">Software Development Engineer</h3>
@@ -87,6 +39,9 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
+[![RepoStars](https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark)
 
 
 
