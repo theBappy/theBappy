@@ -12,10 +12,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+<br/><br>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,django,postgres,mongodb,ai&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=js,cpp,py,nextjs,nodejs,django,postgres,mongodb,ai&theme=dark" />
-<br/>
-<p><b>JS | C++ | Python | Next.js | Node.js | Django | SQL | MongoDB | LLM | AI/ML</b></p>
+<p><b> Python | C++ | JS | React | Next.js | Node.js | Django | SQL | MongoDB | LLM | AI/ML</b></p>
 
 ---
 
