@@ -12,6 +12,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+<br/>
+<img src="https://skillicons.dev/icons?i=js,cpp,py,nextjs,nodejs,postgres,mongodb,ai&theme=dark" />
+<br/>
+<p><b>JavaScript | C++ | Python | Next.js | Node.js | SQL | MongoDB | LLM | AI/ML</b></p>
+
+---
+
 ## 📊 Stats & Trophies
 
 <p>
@@ -20,11 +27,6 @@
     <img src="https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark" alt="RepoStars" height="185px" />
   </a>
 </p>
-
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
 
 <p>
   <a href="https://github.com/theBappy">
