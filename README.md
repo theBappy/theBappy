@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  [![RepoStars](https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark)
+ https://repostars.dev/api/embed?repo=47ng%2Fnuqs&theme=dark)](https://repostars.dev/?repos=47ng%2Fnuqs&theme=dark
 </div>
 
 
