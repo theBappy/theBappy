@@ -17,9 +17,6 @@
 <br/>
 <p><b> Python | C++ | JS | React | Next.js | Node.js | Django | SQL | MongoDB | Docker | Jenkins | Kubernetes | LLM | AI/ML</b></p>
 
----
-
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
 ## 📊 Stats & Trophies
 
