@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 <br/><br>
 <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,django,postgres,mongodb,docker,jenkins,kubernetes,ai&theme=dark" />
