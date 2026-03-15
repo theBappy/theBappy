@@ -40,9 +40,9 @@
   <img src="https://trophy.ryglcloud.net/?username=theBappy&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="theBappy's GitHub Trophies" />
 </p>
 
-<p>
+<!-- <p>
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=theBappy&theme=cobalt&radius=10" alt="theBappy's Activity Graph" />
-</p>
+</p> -->
 
 <p>
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
