@@ -29,12 +29,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-<p>
+<!-- <p>
   <a href="https://github.com/theBappy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theBappy&cache_seconds=7200&layout=compact&theme=cobalt&border_radius=10" alt="theBappy's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=theBappy&theme=cobalt&hide_border=true&cache_seconds=86400" alt="theBappy's GitHub Streak" width="49%" />
-</p>
+</p> -->
 
 <p>
   <img src="https://trophy.ryglcloud.net/?username=theBappy&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="theBappy's GitHub Trophies" />
