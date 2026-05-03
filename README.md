@@ -13,12 +13,76 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" /> -->
 
-<br/><br>
+<!-- <br/><br>
 <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,django,postgres,mongodb,docker,jenkins,kubernetes,ai&theme=dark" />
 <br/>
-<p><b> Python | C++ | JS | React | Next.js | Node.js | Django | SQL | MongoDB | Docker | Jenkins | Kubernetes | LLM | AI/ML</b></p>
+<p><b> Python | C++ | JS | React | Next.js | Node.js | Django | SQL | MongoDB | Docker | Jenkins | Kubernetes | LLM | AI/ML</b></p> -->
 
 
+## 💡 Tech Stacks
+
+<table align="left">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+<br>.NET
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
+
+  <br>
 ## 📊 Stats & Trophies
 
 <p>
